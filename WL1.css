@@ -1,7 +1,7 @@
 body{
   font-family: 'Merriweather Sans', sans-serif;
   font-size: large;
-  margin: 2em 2em;
+  margin: 2em 1em;
   background-color: #D7EAEA;
 }
 
@@ -16,8 +16,8 @@ a{
 .main{
   border-radius: 25px;
   background-color: #acdbdf;
-  margin: 2em 2em;
-  max-width: 1240px;
+  margin: 2em 1em;
+  max-width: 1200px;
   justify-content: center; 
   
 }
@@ -32,17 +32,17 @@ a{
 .imgwrap{
   
   min-width: 0;
-  margin: 2em 2em;
+  margin: 2em 1em;
 }
 
 img {
   border-radius: 25px;
-  width: 350 px;
+  width: 350px;
   max-width: 100%; /*actual image width*/
   max-height: 350; /* maintain aspect ratio*/
 }
 
 footer{
   text-align: center;
-  margin: 2em 2em;
+  margin: 2em 1em;
 }
