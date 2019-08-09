@@ -17,7 +17,7 @@ a{
   border-radius: 25px;
   background-color: #acdbdf;
   margin: 2em 1em;
-  max-width: 1240px;
+  max-width: 1200px;
   justify-content: center; 
   
 }
@@ -37,7 +37,7 @@ a{
 
 img {
   border-radius: 25px;
-  max-width: 1240; /*actual image width*/
+  max-width: 1200; /*actual image width*/
   max-height: 350; /* maintain aspect ratio*/
 }
 
