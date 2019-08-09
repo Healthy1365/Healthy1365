@@ -36,8 +36,9 @@ a{
 img {
   border-radius: 25px;
   width: 100%;
-  max-width: 1200; /*actual image width*/
-  max-height: 350; /* maintain aspect ratio*/
+  max-width: 1200px; /*actual image width*/
+  height: 100px;
+  max-height: 350px; /* maintain aspect ratio*/
 }
 
 footer{
