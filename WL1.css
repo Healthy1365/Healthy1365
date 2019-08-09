@@ -37,7 +37,6 @@ img {
   border-radius: 25px;
   width: 100%;
   max-width: 1200px; /*actual image width*/
-  height: auto;
   max-height: 350px; /* maintain aspect ratio*/
 }
 
