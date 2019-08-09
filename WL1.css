@@ -19,7 +19,6 @@ a{
   margin: 2em 1em;
   max-width: 1200px;
   justify-content: center; 
-  
 }
 
 .flex-container{
@@ -37,7 +36,7 @@ a{
 
 img {
   border-radius: 25px;
-  max-width: 1200; /*actual image width*/
+  max-width: 100%; /*actual image width*/
   max-height: 350; /* maintain aspect ratio*/
 }
 
