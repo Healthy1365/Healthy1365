@@ -35,8 +35,8 @@ a{
 
 img {
   border-radius: 25px;
-  width: 1200px;
-  max-width: 100%; /*actual image width*/
+  width: 100%;
+  max-width: 1200; /*actual image width*/
   max-height: 350; /* maintain aspect ratio*/
 }
 
