@@ -28,7 +28,6 @@ a{
 }
 
 .imgwrap{
-  display: flex;
   min-width: 0;
   margin: 2em 1em;
 }
