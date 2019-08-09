@@ -35,12 +35,10 @@ a{
 
 img {
   border-radius: 25px;
-  width: auto;
-  /*actual image width*/
-  max-width: 1200px; 
+  width: 100%;
+  max-width: 1200px; /*actual image width*/
   height: auto;
-  /* maintain aspect ratio*/
-  /*max-height: 350px; */
+  max-height: 350px; /* maintain aspect ratio*/
 }
 
 footer{
